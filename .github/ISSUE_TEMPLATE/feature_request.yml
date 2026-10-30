@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest a focused improvement for Zumuro.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behaviour
+      description: Explain the listening or library workflow you want to improve.
+    validations:
+      required: true

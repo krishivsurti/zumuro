@@ -1,0 +1,25 @@
+name: Bug report
+description: Report a reproducible playback, import or interface problem.
+title: "[Bug]: "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Platform and version
+      placeholder: Android 15, Zumuro 1.4.7 / Chrome version / web URL
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: What happened, and how can it be reproduced?
+      description: Include expected behaviour and steps. For playback, mention search/playlist, screen lock and Bluetooth. Redact account details.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: I removed passwords, tokens, personal data and private playlist links.
+          required: true
