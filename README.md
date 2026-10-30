@@ -60,6 +60,8 @@ Imports and recommendations depend on available provider metadata. Exact recordi
 
 ## Get Zumuro
 
+**Android 1.4.8:** [Download the update](https://github.com/krishivsurti/zumuro-downloads/releases/tag/android-v1.4.8). Promotional website links stay in your browser; the installed app opens or resumes its music player. New shared-song links open the player when Android app-link handling is enabled. Install over the current official APK to keep app data.
+
 | Platform | Status | Start listening |
 | --- | --- | --- |
 | Browser | Available | [Open the web player](https://zumuro.web.app/app) |
