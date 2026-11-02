@@ -50,17 +50,21 @@ Screenshots use sample guest collections, not a person's private account data.
 | Upload CSV files or paste song lists | Search and select available recordings | Android background playback |
 | Review matches before saving | Sync a signed-in library across devices | Notification and lock-screen controls |
 
+- **Mixed for you:** personal mixes built from your own listening and the YouTube Mixes of your favourite songs, drawn fresh each time you open Zumuro and named after what's in them.
+- **Autoplay that follows you:** the next song follows what you're listening to right now. Pick something different and autoplay switches with you, while your long-term taste picks the best songs.
+- **Original songs only:** suggestions come from official labels, artists' own channels and official audio, never remixes, mashups, edits or covers.
+- **Your account, your way:** continue with Google, sign up with email, or start as a guest and save your account later.
 - **A familiar home:** recent listening, favourites and discovery collections together.
 - **Your queue first:** manually added songs take priority over automatic suggestions.
 - **More choice:** retry a recording or choose another supported YouTube version when needed.
 - **Your sound and appearance:** Classic Saffron, appearance choices and supported audio preferences.
-- **Privacy controls:** listening-history controls and a reset for device-local autoplay learning.
+- **Privacy controls:** listening-history controls and a reset for autoplay learning.
 
 Imports and recommendations depend on available provider metadata. Exact recordings, tempo matches and universal availability are not guaranteed.
 
 ## Get Zumuro
 
-**Android 1.4.8:** [Download the update](https://github.com/krishivsurti/zumuro-downloads/releases/tag/android-v1.4.8). Promotional website links stay in your browser; the installed app opens or resumes its music player. New shared-song links open the player when Android app-link handling is enabled. Install over the current official APK to keep app data.
+**Android 1.4.9:** [Download the update](https://github.com/krishivsurti/zumuro-downloads/releases/tag/android-v1.4.9). Start with Google, email or as a guest; get personal **Mixed for you** mixes; and enjoy autoplay that follows how you're listening right now. Install over the current official APK to keep app data. The [web player](https://zumuro.web.app/app) has the same update.
 
 | Platform | Status | Start listening |
 | --- | --- | --- |
@@ -94,6 +98,8 @@ See [Contributing](CONTRIBUTING.md). For security concerns, use [private reporti
 - [x] Spotify, YouTube and CSV/song-list import flows
 - [x] Signed-in library synchronization
 - [x] Android background playback and media controls
+- [x] Accounts with Google, email or guest sign-up
+- [x] Personal mixes and autoplay that follows your mood
 - [ ] Continued playback and recommendation improvements
 - [ ] Broader physical-device and Bluetooth compatibility testing
 - [ ] Windows desktop application
