@@ -64,7 +64,7 @@ Imports and recommendations depend on available provider metadata. Exact recordi
 
 ## Get Zumuro
 
-**Android 1.4.9:** [Download the update](https://github.com/krishivsurti/zumuro-downloads/releases/tag/android-v1.4.9). Start with Google, email or as a guest; get personal **Mixed for you** mixes; and enjoy autoplay that follows how you're listening right now. Install over the current official APK to keep app data. The [web player](https://zumuro.web.app/app) has the same update.
+**Android 1.4.10:** [Download the update](https://github.com/krishivsurti/zumuro-downloads/releases/tag/android-v1.4.10). Home mixes now play every song, and Zumuro learns better from what you skip, what you actually hear and the singers you enjoy. Install over the current official APK to keep app data. The [web player](https://zumuro.web.app/app) has the same update.
 
 | Platform | Status | Start listening |
 | --- | --- | --- |
